@@ -1,0 +1,22 @@
+dependencies: \
+  /Users/hangere/Desktop/RNapp/navSample/node_modules/react-native/React/Modules/RCTDevMenu.mm \
+  /Users/hangere/Desktop/RNapp/navSample/node_modules/react-native/React/Modules/RCTDevMenu.h \
+  /Users/hangere/Desktop/RNapp/navSample/node_modules/react-native/React/Base/RCTBridge.h \
+  /Users/hangere/Desktop/RNapp/navSample/node_modules/react-native/React/Base/RCTBridgeDelegate.h \
+  /Users/hangere/Desktop/RNapp/navSample/node_modules/react-native/React/Base/RCTJavaScriptLoader.h \
+  /Users/hangere/Desktop/RNapp/navSample/node_modules/react-native/React/Base/RCTDefines.h \
+  /Users/hangere/Desktop/RNapp/navSample/node_modules/react-native/React/Base/RCTBridgeModule.h \
+  /Users/hangere/Desktop/RNapp/navSample/node_modules/react-native/React/Base/RCTFrameUpdate.h \
+  /Users/hangere/Desktop/RNapp/navSample/node_modules/react-native/React/Base/RCTInvalidating.h \
+  /Users/hangere/Desktop/RNapp/navSample/ios/build/Build/Products/Debug-iphonesimulator/include/jschelpers/JavaScriptCore.h \
+  /Users/hangere/Desktop/RNapp/navSample/ios/build/Build/Products/Debug-iphonesimulator/include/jschelpers/JSCWrapper.h \
+  /Users/hangere/Desktop/RNapp/navSample/node_modules/react-native/React/Modules/JSCSamplingProfiler.h \
+  /Users/hangere/Desktop/RNapp/navSample/node_modules/react-native/React/Base/RCTAssert.h \
+  /Users/hangere/Desktop/RNapp/navSample/node_modules/react-native/React/Base/RCTBridge+Private.h \
+  /Users/hangere/Desktop/RNapp/navSample/node_modules/react-native/React/Base/RCTEventDispatcher.h \
+  /Users/hangere/Desktop/RNapp/navSample/node_modules/react-native/React/Base/RCTKeyCommands.h \
+  /Users/hangere/Desktop/RNapp/navSample/node_modules/react-native/React/Base/RCTLog.h \
+  /Users/hangere/Desktop/RNapp/navSample/node_modules/react-native/React/Profiler/RCTProfile.h \
+  /Users/hangere/Desktop/RNapp/navSample/node_modules/react-native/React/Base/RCTRootView.h \
+  /Users/hangere/Desktop/RNapp/navSample/node_modules/react-native/React/Base/RCTUtils.h \
+  /Users/hangere/Desktop/RNapp/navSample/node_modules/react-native/React/Base/RCTWebSocketObserverProtocol.h
